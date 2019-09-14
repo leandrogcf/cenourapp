@@ -3,14 +3,7 @@
   xmlns:gap="http://phonegap.com/ns/1.0"
   id="leandro.id"
   version="1.0.0">
-  <name>
-  App do Leandro
-  </name>
-  <description>
-  Menu do restaurante Cenoura.
-  </description>
-  <author href="http://sergiolopes.org"
-  email="leandro@email.com.br">
-  Leandro Coelho
-  </author>
+  <name>App do Leandro</name>
+  <description>Menu do restaurante Cenoura.</description>
+  <author href="http://sergiolopes.org" email="leandro@email.com.br">Leandro Coelho </author>
 </widget>
